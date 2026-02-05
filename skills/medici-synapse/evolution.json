@@ -66,12 +66,13 @@
     "只在表面贴标签（没有真正的结构同构性）"
   ],
   "performance_metrics": {
-    "total_cases_generated": 7,
-    "total_word_count": 145000,
+    "total_cases_generated": 8,
+    "total_word_count": 165000,
     "user_satisfaction": "high",
     "most_successful_case": "Event Horizon (613 lines, Level 4 Master Challenge)",
     "level_distribution": {
-      "Level 1 (Simple)": 1,
+      "Level 1 (Simple)": 2,
+      "Level 2 (Medium)": 1,
       "Level 3 (Expert)": 4,
       "Level 4 (Master)": 2
     },
